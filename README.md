@@ -48,7 +48,7 @@ _이텔릭_
 []()
 <a href="https://google.com">google</a>
 
-[google]("https://google.com")
+[google](https://google.com)
 
 <a href="https://google.com" title="구글로이동">google</a>
     hover했을때 title이 보임
